@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/s.css">
   </head>
   
-  <body background="images/f1.png"style="background-repeat: no-repeat;background-size: cover;
+  <body background="images/f1.png"style-lund-repeat no-repeat;background-size: cover;-l
         -moz-background-size: cover;
         -webkit-background-size: cover;
         -o-background-size: cover;">
